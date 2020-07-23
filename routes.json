@@ -1,0 +1,5 @@
+{
+    "/api/v1/auth/user/:auth/user": "auth/user/",
+    "/api/v1/contacts:contacts": "contacts/",
+    "/api/v1/photo:photo/id": "/photo/:id"
+}

@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "sergey",
+      "lastname": "smirnof",
+      "company": "ford",
+      "emailContact": "smirnov@mail.ru",
+      "id": 1
+    },
+    {
+      "name": "dmitriy",
+      "lastname": "kalinkin",
+      "company": "bmv",
+      "emailContact": "kalinin@mail.ru",
+      "id": 2
+    },
+    {
+      "name": "danila",
+      "lastname": "ivanov",
+      "company": "volvo",
+      "emailContact": "ivanov@mail.ru",
+      "id": 3
+    },
+    {
+      "name": "denis",
+      "lastname": "belov",
+      "company": "opel",
+      "emailContact": "belov@mail.ru",
+      "id": 4
+    },
+    {
+      "name": "anton",
+      "lastname": "kolin",
+      "company": "lada",
+      "emailContact": "kolin@mail.ru",
+      "id": 5
+    },
+    {
+      "name": "иван ",
+      "lastname": "быков",
+      "company": "форд",
+      "emailContact": "bykov@mail.ru",
+      "id": 6
+    }
+  ]
+}
